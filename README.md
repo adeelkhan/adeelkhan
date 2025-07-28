@@ -10,16 +10,6 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on backend development, distributed computing, AI agents, agentic workflow, langchain/langraph, rag, vector db, LLM ...
 - 💬 Ask me about python, golang, backend development, agentic workflow, distributed computing.
 - 📫 How to reach me: genericoder@gmail.com
-
-<div align="center">
-  <a href="genericoder@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="www.linkedin.com/in/adeel-khan-21451b9" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
 <hr>
 
 ## 🛠️ Languages and Tools
