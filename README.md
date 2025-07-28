@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,python,golang,ts,js,nodejs,react,nextjs,django" />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch,memcache" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,elasticsearch" />
   <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,react" />
   <img src="https://skillicons.dev/icons?i=flask,nginx" />
   <img src="https://skillicons.dev/icons?i=azure,aws,gcp,docker,kubernetes" />
